@@ -1,0 +1,9 @@
+pytesseract
+Pillow
+pygetwindow
+pyautogui
+PyQt5
+openai
+requests
+google-generativeai
+opencv-python 
